@@ -1,12 +1,15 @@
 node_modules
 
-#Solved
+Solved
 
 # Previous HW
-04-Web-APIs/02-Challenge/Main
-# Current HW
 05-Third-Party-APIs/02-Challenge/Main
+# Current HW
+06-Server-Side-APIs/02-Challenge/Main
 # Current Module Solutions
-05-Third-Party-APIs/05-Module-Project/main
+06-Server-Side-APIs/05-Module-Project/main
 
 # Activities
+03-Gif-Search
+04-query-params
+05-nested-api-calls
