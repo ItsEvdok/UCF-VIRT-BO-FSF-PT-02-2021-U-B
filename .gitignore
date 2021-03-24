@@ -1,7 +1,7 @@
 node_modules
 
-#Solved
-03-Algorithms
+Solved
+#03=Algorithms
 
 # Previous HW
 05-Third-Party-APIs/02-Challenge/Main
@@ -11,6 +11,3 @@ node_modules
 06-Server-Side-APIs/05-Module-Project/main
 
 # Activities
-03-Gif-Search
-04-query-params
-05-nested-api-calls
