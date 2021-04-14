@@ -1,7 +1,7 @@
 node_modules
 
-#Solved
-#03=Algorithms
+Solved
+#03-Algorithms
 
 # Previous HW
 
@@ -11,6 +11,3 @@ node_modules
 # Current Module Solutions
 09-NodeJS/05-Module-Project/main
 # Activities
-09-NodeJS/01-Activities/03-Arrow-Functions
-09-NodeJS/01-Activities/04-Functional-Loops
-09-NodeJS/01-Activities/05-Obj-Destructuring
