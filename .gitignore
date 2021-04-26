@@ -1,15 +1,18 @@
 node_modules
 
-#Solved
+Solved
 #03-Algorithms
 
 # Previous HW
-09-NodeJS/02-Challenge/Main
-
-# Current HW
 10-OOP/02-Challenge/Main
 
+# Current HW
+11-Express/02-Challenge/Main
+
 # Current Module Solutions
-10-OOP/05-Module-Project/main
+11-Express/05-Module-Project/main
 
 # Activities
+11-Express/01-Activities/03-POST-Requests
+11-Express/01-Activities/04-Static
+11-Express/01-Activities/05-POST-Client
