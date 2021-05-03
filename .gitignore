@@ -1,16 +1,18 @@
 node_modules
 
-#Solved
+Solved
 #03-Algorithms
 
 # Previous HW
-10-OOP/02-Challenge/Main
-
-# Current HW
 11-Express/02-Challenge/Main
 
+# Current HW
+12-SQL/02-Challenge/Main
+
 # Current Module Solutions
-11-Express/05-Module-Project/main
+12-SQL/05-Module-Project/main
 
 # Activities
-
+12-SQL/01-Activities/03-SQL-Constraints
+12-SQL/01-Activities/04-SQL-Join
+12-SQL/01-Activities/05-SQL-Prepared-Statements
