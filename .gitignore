@@ -1,15 +1,18 @@
 node_modules
 
-#Solved
+Solved
 #03-Algorithms
 
 # Previous HW
-11-Express/02-Challenge/Main
-
-# Current HW
 12-SQL/02-Challenge/Main
 
+# Current HW
+13-ORM/02-Challenge/Main
+
 # Current Module Solutions
-12-SQL/05-Module-Project/main
+13-ORM/05-Module-Project/main
 
 # Activities
+13-ORM/01-Activities/03-Blog-CRUD
+13-ORM/01-Activities/04-Blog-Association
+13-ORM/01-Activities/05-Blog-Joins
