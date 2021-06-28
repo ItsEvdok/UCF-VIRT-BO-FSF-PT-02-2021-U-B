@@ -1,15 +1,18 @@
 node_modules
 
-#Solved
+Solved
 #03-Algorithms
 
 # Previous HW
-18-NoSQL/02-Challenge/Main
-
-# Current HW
 19-PWA/02-Challenge/Main
 
+# Current HW
+20-React/02-Challenge/Main
+
 # Current Module Solutions
-19-PWA/05-Module-Project/main
+20-React/05-Module-Project/main
 
 # Activities
+20-React/01-Activities/03-useEffect-Thermostat
+20-React/01-Activities/04-Conditional-Render
+20-React/01-Activities/05-Friends-List
