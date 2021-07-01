@@ -1,5 +1,5 @@
 // Import `useEffect` Hook from React
-import React, { useState,useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 
 function Thermostat() {
   // Set the starting temperature

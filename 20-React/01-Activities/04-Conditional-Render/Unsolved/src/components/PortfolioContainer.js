@@ -10,8 +10,16 @@ function Portfolio() {
 
   const renderPage = () => {
     // Add a switch statement that will return the appropriate component of the 'currentPage'
-    // YOUR CODE HERE
-    //
+    switch(currentPage){
+      case 'About':
+        return <About/>
+      case 'Blog':
+        return <Blog/>
+      case 'Contact':
+        return <Contact/>
+      default:
+        return <Home/>;
+    }
   };
 
   return (
@@ -20,8 +28,7 @@ function Portfolio() {
       <div>
         {
           // Render the component returned by 'renderPage()'
-          // YOUR CODE HERE
-          //
+          renderPage()
         }
       </div>
     </div>

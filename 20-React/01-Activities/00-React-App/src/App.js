@@ -1,8 +1,8 @@
-import React from "react";
-import Counter from "./components/Counter";
+import React from 'react';
+import Thermostat from './components/Thermostat';
 
 function App() {
-  return <Counter />;
+  return <Thermostat />;
 }
 
 export default App;
